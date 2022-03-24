@@ -1,3 +1,4 @@
+/* Screen resoution of 1008px */
 @media (max-width: 63em) {
   html {
     font-size: 52.5%;
@@ -8,6 +9,7 @@
   }
 }
 
+/* Screen resoution of 816px */
 @media (max-width: 51em) {
   .heading-primary {
     font-size: 3.6rem;
@@ -17,6 +19,7 @@
   }
 }
 
+/* Screen resoution of 704px */
 @media (max-width: 44em) {
   main {
     grid-template-columns: 1fr;
@@ -35,6 +38,7 @@
   }
 }
 
+/* Screen resoution of 544px */
 @media (max-width: 34em) {
   .heading-primary {
     font-size: 3rem;
@@ -69,6 +73,7 @@
   }
 }
 
+/* Screen resoution of 400px */
 @media (max-width: 25em) {
   main {
     padding: 0 1.6rem;

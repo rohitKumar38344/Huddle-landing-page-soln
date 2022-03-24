@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/rohitKumar38344/Huddle-landing-page-soln)
+- Live Site URL: [live site URL](https://huddle-landing-page-soln.netlify.app/)
 
 ## My process
 
